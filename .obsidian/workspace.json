@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Meta/99.01 Templates/Daily Note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Meta/99.01 Templates/Daily Note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Meta/99.01 Templates/Daily Note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Meta/99.01 Templates/Daily Note.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "310aa92a0809fc9b",
   "lastOpenFiles": [
-    "INDEX.md",
+    "00. Inbox/00.02. Daily/00.02.01 2024-01-21.md",
     "README.md",
+    "INDEX.md",
     "99. Meta/99.01 Templates/Daily Note.md",
     "00. Inbox/00.02. Daily/00.02.03 2023-11-08.md",
     "00. Inbox/00.02. Daily/00.02.01 2023-11-06.md",
@@ -191,7 +192,6 @@
     "+Daily Notes.md",
     "00. Inbox/00.02. Todo/00.02.01.md",
     "00. Inbox/00.02. Todo/00.02.03 2023-11-07.md",
-    "00. Inbox/00.02. Todo/00.02.05 2023-11-07.md",
     "99. Meta/99.01 Obsidian/99.01.01 Templates",
     "99. Meta/99.01 Templates",
     "00. Inbox/00.02. Daily",

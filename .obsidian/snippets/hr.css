@@ -1,0 +1,23 @@
+/*
+** Customised symbolic hr line in Preview modded from TriDiamond's post (https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/223)
+*/
+.markdown-source-view hr,
+.markdown-preview-view hr {
+  margin-block-start: 2em;
+  margin-block-end: 2em;
+  border: none;
+  height: 1px;;
+  background-image: linear-gradient(to right, var(--background-primary), tan, yellow, #e6d265, yellow, tan, var(--background-primary));
+}
+.markdown-source-view hr::before, 
+.markdown-preview-view hr::before {
+  content: '🙤x🙦'; /* '🙦 🙤' */
+  color: #e6d265; /* #e6d265; */
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -55%);
+  transform-origin: 50% 50%;
+  padding: none;
+  background-color: var(--background-primary);
+}

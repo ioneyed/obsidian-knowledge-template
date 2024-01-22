@@ -22,7 +22,6 @@ Under the [[#Index]] section you will find a Table of Contents that is autogener
 
 const requiredPlugins = [
 "dataview",
-"obsidian-rollover-daily-todos",
 "templater-obsidian"
 ]
 
